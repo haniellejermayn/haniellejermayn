@@ -19,7 +19,6 @@ location: Metro Manila, Philippines
 education: BS Computer Science @ De La Salle University
 currently_learning: [DevOps & Cloud Infrastructure, Quality Assurance, Software Engineering]
 interests: [Full-Stack Development, CI/CD Automation, Testing, Infrastructure]
-goals: Building reliable, scalable software & mastering the full development lifecycle
 ```
 
 Computer Science student passionate about building quality software. I have experience with full-stack development and am now expanding into DevOps, QA, and software engineering best practices to understand the complete software development lifecycle. I'm a fast learner who enjoys solving problems and continuously improving my skillset.
