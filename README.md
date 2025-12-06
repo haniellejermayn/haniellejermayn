@@ -12,15 +12,23 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
-
 ```yaml
 name: Hanielle Jermayn E. Chua
 location: Metro Manila, Philippines
 education: BS Computer Science @ De La Salle University
+currently_learning: [DevOps & Cloud Infrastructure, Quality Assurance, Software Engineering]
+interests: [Full-Stack Development, CI/CD Automation, Testing, Infrastructure]
+goals: Building reliable, scalable software & mastering the full development lifecycle
 ```
 
+Computer Science student passionate about building quality software. I have experience with full-stack development and am now expanding into DevOps, QA, and software engineering best practices to understand the complete software development lifecycle. I'm a fast learner who enjoys solving problems and continuously improving my skillset.
+
+**Current Focus:**
+- 🔧 Exploring DevOps practices, CI/CD pipelines & cloud infrastructure
+- 🧪 Learning software testing methodologies and QA automation
+- 🏗️ Studying software architecture and design patterns
+- ⚙️ Understanding containerization, orchestration & deployment strategies
 ---
 
 ## 🛠️ Tech Stack
@@ -110,18 +118,17 @@ Full-stack forum with Express.js backend and MongoDB for user interactions and c
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haniellejermayn&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=86b97a&icon_color=86b97a&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniellejermayn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=86b97a&text_color=c9d1d9"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haniellejermayn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=86b97a&icon_color=86b97a&text_color=c9d1d9&ring_color=86b97a" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniellejermayn&layout=compact&hide_border=true&bg_color=0d1117&title_color=86b97a&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Gold Award** - World Youth International Innovation Award 2022
-- 🥉 **Third Award** - Taiwan International Science Fair 2023
-- 🎓 **Consistent 1st Dean's Lister**
-- 🏅 **Summa Cum Laude Standing**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haniellejermayn&theme=dark&hide_border=true&background=0d1117&ring=86b97a&fire=86b97a&currStreakLabel=86b97a" alt="GitHub Streak" />
+</div>
 
 ---
 
