@@ -117,17 +117,14 @@ Full-stack forum with Express.js backend and MongoDB for user interactions and c
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haniellejermayn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=86b97a&icon_color=86b97a&text_color=c9d1d9&ring_color=86b97a" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniellejermayn&layout=compact&hide_border=true&bg_color=0d1117&title_color=86b97a&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  </a>
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=haniellejermayn&show_icons=true&theme=github_dark)<br>
+  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haniellejermayn&layout=compact&theme=github_dark)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haniellejermayn&theme=dark&hide_border=true&background=0d1117&ring=86b97a&fire=86b97a&currStreakLabel=86b97a" alt="GitHub Streak" />
+  ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=haniellejermayn&theme=github_dark)
 </div>
+
 
 ---
 
