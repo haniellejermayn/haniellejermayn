@@ -115,15 +115,10 @@ Full-stack forum with Express.js backend and MongoDB for user interactions and c
 ---
 
 ## 📈 GitHub Stats
+| GitHub Stats | Top Languages | Streak |
+| ------------ | ------------- | ------ |
+| ![Stats](https://github-readme-stats-fast.vercel.app/api?username=haniellejermayn&show_icons=true&theme=github_dark) | ![Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haniellejermayn&layout=compact&theme=github_dark) | ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=haniellejermayn&theme=github_dark) |
 
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=haniellejermayn&show_icons=true&theme=github_dark)<br>
-  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haniellejermayn&layout=compact&theme=github_dark)
-</div>
-
-<div align="center">
-  ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=haniellejermayn&theme=github_dark)
-</div>
 
 
 ---
