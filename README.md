@@ -114,12 +114,18 @@ Full-stack forum with Express.js backend and MongoDB for user interactions and c
 
 ---
 
+
 ## 📈 GitHub Stats
-| GitHub Stats | Top Languages | Streak |
-| ------------ | ------------- | ------ |
-| ![Stats](https://github-readme-stats-fast.vercel.app/api?username=haniellejermayn&show_icons=true&theme=github_dark) | ![Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haniellejermayn&layout=compact&theme=github_dark) | ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=haniellejermayn&theme=github_dark) |
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=haniellejermayn&show_icons=true&theme=github_dark" width="425">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haniellejermayn&layout=donut&theme=github_dark" width="290">
+</p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=haniellejermayn&theme=github_dark">
+</p>
 
 ---
 
@@ -128,5 +134,5 @@ Full-stack forum with Express.js backend and MongoDB for user interactions and c
 </div>
 
 <div align="center">
-  <sub>Thanks for visiting! Feel free to reach out if you'd like to collaborate</sub>
+  <sub>Thanks for visiting! Feel free to reach out if you'd like to collaborate :D</sub>
 </div>
