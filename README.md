@@ -69,12 +69,12 @@ Computer Science student passionate about building quality software. I have expe
 <tr>
 <td width="50%">
 
-### 📱 Kasama
-**Household Task Manager**
+### ⚡ WESM Price Prediction
+**Comparative ML Study**
 
-Kotlin-based Android app with offline-first architecture, Room database, Firebase sync, and WorkManager for background tasks.
+End-to-end pipeline predicting Philippine wholesale electricity prices (GWAP), benchmarking Linear Regression, Ridge, Logistic Regression, Neural Network, and LSTM on real IEMOP market data.
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/kasama)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/wesm-price-prediction)
 
 </td>
 <td width="50%">
@@ -91,12 +91,12 @@ ETL pipeline processing 150M+ records into MySQL warehouse with Flask backend an
 <tr>
 <td width="50%">
 
-### 💼 Portfolio
-**Personal Website**
+### 📱 Kasama
+**Household Task Manager**
 
-Responsive portfolio with smooth animations using Framer Motion and modern UI components.
+Kotlin-based Android app with offline-first architecture, Room database, Firebase sync, and WorkManager for background tasks.
 
-[![Live](https://img.shields.io/badge/Live-Visit_Site-success?style=flat-square&logo=vercel)](https://haniellejermayn-portfolio.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/haniellejermayn-portfolio)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/kasama)
 
 </td>
 <td width="50%">
