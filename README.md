@@ -22,14 +22,6 @@ currently_exploring: [AI Engineering, Automation, Full-Stack Development]
 interests: [LLM Pipelines, AI Agents, Process Automation, Software Engineering]
 ```
 
-Computer Science student passionate about building AI-powered systems and automation tools. I enjoy working across the full stack but am increasingly drawn to AI engineering — designing agents, pipelines, and workflows that make repetitive tasks disappear. I'm a fast learner who likes shipping things that actually work.
-
-**Current Focus:**
-- 🤖 Building AI agents and LLM-powered pipelines
-- ⚙️ Designing automation workflows end-to-end
-- 🏗️ Studying software architecture and system design
-- 🧪 Writing reliable, well-tested code
-
 ---
 
 ## 🛠️ Tech Stack
