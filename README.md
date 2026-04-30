@@ -86,7 +86,7 @@ Full-loop AI email agent that automates nonprofit outreach end-to-end — drafti
 ### ⚡ WESM Price Prediction
 **ML Pipeline · Python, scikit-learn, PyTorch, TensorFlow**
 
-End-to-end pipeline predicting Philippine wholesale electricity prices, benchmarking 5 model families across regression and classification on real IEMOP market data. Best models: R² = 0.675, ROC-AUC = 0.947.
+End-to-end pipeline predicting Philippine wholesale electricity prices, benchmarking 5 model families across regression and classification on real IEMOP market data.
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/wesm-price-prediction)
 
