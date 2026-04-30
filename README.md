@@ -1,4 +1,3 @@
-
 <h1 align="center">Hanielle Jermayn</h1>
 
 <p align="center">
@@ -12,22 +11,25 @@
 </p>
 
 ---
+
 ## 👨‍💻 About Me
+
 ```yaml
 name: Hanielle Jermayn E. Chua
 location: Metro Manila, Philippines
 education: BS Computer Science @ De La Salle University
-currently_learning: [DevOps & Cloud Infrastructure, Quality Assurance, Software Engineering]
-interests: [Full-Stack Development, CI/CD Automation, Testing, Infrastructure]
+currently_exploring: [AI Engineering, Automation, Full-Stack Development]
+interests: [LLM Pipelines, AI Agents, Process Automation, Software Engineering]
 ```
 
-Computer Science student passionate about building quality software. I have experience with full-stack development and am now expanding into DevOps, QA, and software engineering best practices to understand the complete software development lifecycle. I'm a fast learner who enjoys solving problems and continuously improving my skillset.
+Computer Science student passionate about building AI-powered systems and automation tools. I enjoy working across the full stack but am increasingly drawn to AI engineering — designing agents, pipelines, and workflows that make repetitive tasks disappear. I'm a fast learner who likes shipping things that actually work.
 
 **Current Focus:**
-- 🔧 Exploring DevOps practices, CI/CD pipelines & cloud infrastructure
-- 🧪 Learning software testing methodologies and QA automation
-- 🏗️ Studying software architecture and design patterns
-- ⚙️ Understanding containerization, orchestration & deployment strategies
+- 🤖 Building AI agents and LLM-powered pipelines
+- ⚙️ Designing automation workflows end-to-end
+- 🏗️ Studying software architecture and system design
+- 🧪 Writing reliable, well-tested code
+
 ---
 
 ## 🛠️ Tech Stack
@@ -40,22 +42,24 @@ Computer Science student passionate about building quality software. I have expe
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Databases**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Tools**  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -69,44 +73,44 @@ Computer Science student passionate about building quality software. I have expe
 <tr>
 <td width="50%">
 
-### ⚡ WESM Price Prediction
-**Comparative ML Study**
+### 🤖 NonprofitReach
+**AI Agent · Python, GPT-4o, Gmail API**
 
-End-to-end pipeline predicting Philippine wholesale electricity prices (GWAP), benchmarking Linear Regression, Ridge, Logistic Regression, Neural Network, and LSTM on real IEMOP market data.
+Full-loop AI email agent that automates nonprofit outreach end-to-end — drafting personalized emails, tracking replies via Gmail labels, parsing responses into structured data, and generating follow-up drafts for human review.
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/wesm-price-prediction)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/nonprofitreach)
 
 </td>
 <td width="50%">
 
-### 📊 IMDb Analytics
-**OLAP Data Warehouse**
+### ⚡ WESM Price Prediction
+**ML Pipeline · Python, scikit-learn, PyTorch, TensorFlow**
 
-ETL pipeline processing 150M+ records into MySQL warehouse with Flask backend and interactive analytics dashboard.
+End-to-end pipeline predicting Philippine wholesale electricity prices, benchmarking 5 model families across regression and classification on real IEMOP market data. Best models: R² = 0.675, ROC-AUC = 0.947.
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/IMDb-OLAPApplication)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/wesm-price-prediction)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📱 Kasama
-**Household Task Manager**
+### 🔍 RFPScout
+**AI Agent · Python, GPT-4o, SQLite**
 
-Kotlin-based Android app with offline-first architecture, Room database, Firebase sync, and WorkManager for background tasks.
+Modular AI agent that discovers nonprofit RFPs from across the web, extracts structured details, scores them by relevance, and drafts outreach emails for human review — all in a search→extract→rank→draft pipeline.
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/kasama)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/RFPScout)
 
 </td>
 <td width="50%">
 
-### 💬 Connectify
-**Forum Application**
+### 📊 IMDb Analytics
+**OLAP Platform · Python, MySQL, Flask**
 
-Full-stack forum with Express.js backend and MongoDB for user interactions and content management.
+ETL pipeline processing 150M+ records into a MySQL data warehouse with a Flask backend and interactive analytics dashboard.
 
-[![Live](https://img.shields.io/badge/Live-Visit_Site-success?style=flat-square&logo=render)](https://connectify-y0tq.onrender.com) [![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/strangeshands/APDEV-MCO)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat-square&logo=github)](https://github.com/haniellejermayn/IMDb-OLAPApplication)
 
 </td>
 </tr>
@@ -114,14 +118,12 @@ Full-stack forum with Express.js backend and MongoDB for user interactions and c
 
 ---
 
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=haniellejermayn&show_icons=true&theme=github_dark" width="425">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haniellejermayn&layout=donut&theme=github_dark" width="290">
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=haniellejermayn&theme=github_dark">
